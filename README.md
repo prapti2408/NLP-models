@@ -11,8 +11,8 @@ Tokenization of Messages.
 One hot implementation on tokenized message(corpus)
 Perform word embedding
 Data preparation/Data Splitting:
-Split the data into training+validation(85%) & testing(15%) data.
-Further split the training+validation data into training(85%) and validation(15%) data.
+Split the data into training+validation(80%) & testing(20%) data.
+Further split the training+validation data into training(80%) and validation(20%) data.
 Model Building:
 Build a model using logistic regression
 Fit and Validate model on training and validation model
